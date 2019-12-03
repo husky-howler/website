@@ -1,3 +1,3 @@
 # website
 index.html
-#go to hhtsnews.rf.gd!!
+go to hhtsnews.rf.gd!!
